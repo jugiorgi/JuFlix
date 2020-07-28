@@ -13,8 +13,8 @@ O JuFlix é uma aplicação  voltada para o estudo de ReactJs.
 ## Aplicação
 
 <p align="center">
-  <img src="" width="800" alt="header">
-  <img src="" width="800" alt="body">
+  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/header.png" width="800" alt="header">
+  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/body.png" width="800" alt="body">
 </p>
 
 >  Ao clicar no poster da série você será redirecionado para o trailer no Youtube.
