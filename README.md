@@ -9,6 +9,8 @@
 
 O JuFlix é uma aplicação  voltada para o estudo de ReactJs. 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo" width="50" >
+
 
 ## Aplicação
 
