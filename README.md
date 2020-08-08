@@ -13,16 +13,6 @@ https://juflix.vercel.app/
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo" width="50" >
 
-
-## Aplicação
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/header.png" width="800" alt="header">
-  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/body.png" width="800" alt="body">
-</p>
-
->  Ao clicar no poster da série você será redirecionado para o trailer no Youtube.
-
 ##### Instalando as dependências
 
 ```sh
@@ -34,3 +24,13 @@ npm install
 ```sh
 npm start
 ```
+
+## Aplicação
+
+>  Ao clicar no poster da série você será redirecionado para o trailer no Youtube.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/header.png" width="800" alt="header">
+  <img src="https://raw.githubusercontent.com/jugiorgi/JuFlix/master/src/assets/preview/body.png" width="800" alt="body">
+</p>
+
